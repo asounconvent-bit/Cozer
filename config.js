@@ -17,4 +17,4 @@ window.COZY_PLUS = { price: "59 บาท / เดือน" };
 
 // 3) อีเมลผู้ดูแลแอพ แสดงในนโยบายความเป็นส่วนตัว
 window.COZY_CONTACT = "";
-window.COZY_AI = { url: "https://cozy-ai.asounconvent.workers.dev", freePerDay: 20, photosPerDay: 3 };
+window.COZY_AI = { url: "https://cozer-ai.asounconvent.workers.dev", freePerDay: 20, photosPerDay: 3 };
